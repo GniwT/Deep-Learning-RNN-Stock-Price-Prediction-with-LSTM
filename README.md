@@ -1,1 +1,2 @@
-# Deep-Learning-RNN-Stock-Price-Prediction-with-LSTM
+# Deep Learning RNN: Stock Price Prediction with LSTM
+This project will try to capture the upward and the downward trend on Tesla stock (NASDAQ: TSLA). It is a highly challening problem in financial engineering field. The LSTM in this project is based on the notion that the historical prices is related to the present or future prices. However, there are other theroies of the opposite notion, such as random walk theory. Nobody can prove which notion is true. However, what we can be gaurantee that if there is a 100% prefect model, all of us would be billionaires.
